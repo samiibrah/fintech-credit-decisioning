@@ -107,8 +107,6 @@ To support transparency and governance:
 * **Local explanations:** Individual loan-level SHAP breakdowns
 * Clear articulation of *why* a borrower was approved or declined
 
-This mirrors explainability requirements in regulated FinTech environments.
-
 ---
 
 ## Decisioning & Pricing Engine
@@ -185,6 +183,3 @@ fintech-credit-decisioning/
 Built as a portfolio project focused on **FinTech credit risk, AI explainability, and decision science**.
 
 ---
-
-
-Just say which version you want.
