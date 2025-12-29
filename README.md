@@ -78,7 +78,7 @@ Features were intentionally limited to variables commonly used in regulated cons
 
 ## Modeling Approach
 
-### 1. Baseline Model (Regulatory Benchmark)
+### 1. Baseline Model 
 
 * Logistic Regression
 * Bucketed and monotonic-friendly features
