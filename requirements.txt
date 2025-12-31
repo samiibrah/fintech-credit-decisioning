@@ -1,0 +1,24 @@
+# Core data
+pandas>=1.5
+numpy>=1.23
+
+# Machine learning
+scikit-learn>=1.2
+joblib>=1.2
+
+# API
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.0
+
+# Notebooks & visualization
+jupyterlab>=4.0
+matplotlib>=3.7
+seaborn>=0.12
+
+# Testing
+pytest>=7.4
+
+# HTTP client (used in API smoke test notebook)
+requests>=2.31
+ 
